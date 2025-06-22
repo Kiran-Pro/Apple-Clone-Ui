@@ -1,6 +1,6 @@
 # Apple Website Clone
 
-A responsive, high-fidelity clone of the official [Apple India website](https://www.apple.com/in/), developed with **React** and **Tailwind CSS**. This project aims to replicate Apple's iconic UI design, layout behavior, and responsiveness across devices.
+A responsive, high-fidelity clone of the official [Apple website- UI](https://www.apple.com/in/), developed with **React** and **Tailwind CSS**. This project aims to replicate Apple's iconic UI design, layout behavior, and responsiveness across devices.
 
 ---
 
